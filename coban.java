@@ -17,7 +17,7 @@ public class coban {
 			else System.out.print("PT co 1 nghiem x= " + (-b/a));
 		} catch (Exception e) {
 			// TODO: handle exception
-			e.printStackTrace();
+			System.out.print("Loi");
 		}
 		
 	}
