@@ -17,6 +17,7 @@ public class bac2 {
 			if(a==0) {
 				if(b==0) {
 					if(c==0) System.out.println("Pt co vo so nghiem");
+					else System.out.println("Pt vo nghiem");
 				}
 				else System.out.println("Pt co nghiem x= "+ (-c/b));
 			}
